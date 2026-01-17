@@ -3,7 +3,7 @@
 📍 Brasil • 💻 Data Science
 
 ## Sobre
-Cientista de Dados em formação (TripleTen), com experiência prática em projetos de ML, EDA e avaliação de modelos.  
+Cientista de Dados com experiência prática em projetos de ML, EDA e avaliação de modelos.  
 Também desenvolvo sites para clientes e projetos pessoais.
 
 ## Ferramentas
